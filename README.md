@@ -27,9 +27,9 @@ Complete step-by-step procedures for all maintenance tasks.
    - The focus lens is located in the laser head/nozzle assembly
    - Unscrew or unclip the lens holder
    - Carefully remove the lens, noting which side faces up
+     - Hold lens by edges only – **never** touch optical surfaces   
 
 3. **Clean the lens:**
-   - Hold lens by edges only – never touch optical surfaces
    - Use compressed air to remove loose dust first (optional)
    - Fold a lint-free wipe and apply 2-3 drops of lens cleaning solution
    - Place lens on clean surface or hold carefully
