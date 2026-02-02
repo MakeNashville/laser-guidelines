@@ -220,7 +220,6 @@ Complete step-by-step procedures for all maintenance tasks.
 ### Materials:
 - **White lithium grease** (per OMTech recommendation)
 - Disposable cloths or paper towels
-- Lint-free cloths
 
 ### Procedure:
 
