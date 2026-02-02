@@ -141,7 +141,7 @@ Complete step-by-step procedures for all maintenance tasks.
    - Look for warping or damage
    - Check for areas with heavy buildup
 
-4. **Replace tray and confirm honeycomb is level.**
+4. **Replace debris tray.**
 
 ---
 
