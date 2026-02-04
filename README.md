@@ -144,7 +144,7 @@ Complete step-by-step procedures for all maintenance tasks.
    - Add DISTILLED water only if low
 
 2. **Verify flow:**
-   - Look for flow indicator (Do we have this?)
+   - Look for flow indicator (pending purchase)
    - Listen for pump operation
    - Feel return line – should be slightly warm after using the laser
   
