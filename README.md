@@ -6,13 +6,46 @@ Complete step-by-step procedures for all maintenance tasks.
 ---
 
 # Per-Use Tasks
+## Before Use
+0. Have already completed laser orientation
+1. Check exhaust system is working
+2. Check water coolant is flowing
+3. Know where the E-STOP button is
+4. Know where the fire extinguisher is and how to use it
+5. Verify your material is laser-safe
+
+## After Use:
+1. Let exhaust run for 1-2 minutes to clear all smoke
+2. Clean honeycomb for next person
+3. Turn OFF compressed air (close ball valve)
+4. Turn OFF the laser by key and rocker switches on side panel
+5. Make sure scrap materials are cut down and put away
+6. Report Problems to #laser immediately
+
+
+## Cleaning Honeycomb
+**Time:** 3-5 minutes  
+**Frequency:** After every use
+
+1. **Clean honeycomb surface:**
+   - The honeycomb is delicate!
+   - Use brush to sweep loose debris
+   - Remove any stuck material carefully
+     - First, try to vacuum stuck pieces out with a shop-vac
+     - If still stuck, remove pieces with tweezers
+     - If still stuck, use small stick from below the honeycomb to push the piece up and out
+
+2. **Check honeycomb condition:**
+   - Look for warping or damage
+   - Report any damage to #laser-maintenance
 
 ---
 
+# Weekly Tasks
+
 ## Cleaning the Focus Lens
 
-**Time:** 2-3 minutes
-**Frequency:** After every use
+**Time:** 2-3 minutes  
 
 ### Materials Needed:
 - Lens cleaning solution (optical grade)
@@ -27,9 +60,9 @@ Complete step-by-step procedures for all maintenance tasks.
    - The focus lens is located in the laser head/nozzle assembly
    - Unscrew or unclip the lens holder
    - Carefully remove the lens, noting which side faces up
+     - Hold lens by edges only – **never** touch optical surfaces   
 
 3. **Clean the lens:**
-   - Hold lens by edges only – never touch optical surfaces
    - Use compressed air to remove loose dust first (optional)
    - Fold a lint-free wipe and apply 2-3 drops of lens cleaning solution
    - Place lens on clean surface or hold carefully
@@ -54,12 +87,10 @@ Complete step-by-step procedures for all maintenance tasks.
 - Cloudy or hazy appearance
 - Chipped edges
 
----
-
 ## Cleaning the Mirrors
 
-**Time:** 5 minutes
-**Frequency:** After every use
+**Time:** 5 minutes  
+**Frequency:** Weekly (minimum)
 
 ### Mirror Locations:
 - **Mirror 1:** Rear left corner, receives beam from tube
@@ -87,43 +118,8 @@ Complete step-by-step procedures for all maintenance tasks.
 - Don't adjust mirror mounts unless trained in alignment
 - Mirrors are typically gold or silicon coated
 
----
-
-## Checking the Exhaust System
-
-**Time:** 1 minute
-**Frequency:** Before and after every use
-
-### Procedure:
-
-1. **Turn on exhaust fan** (may be automatic or manual switch).
-
-2. **Check airflow:**
-   - Place hand near exhaust outlet
-   - Air should be moving strongly
-   - Listen for normal fan operation
-
-3. **Visual inspection:**
-   - Look into machine cabinet for haze or smoke
-   - Check that duct connections are secure
-   - Ensure no visible blockages in duct
-
-4. **After cutting:**
-   - Let exhaust run for 1-2 minutes after last cut
-   - Verify any smoke has cleared
-
-### Warning Signs:
-- Weak airflow
-- Unusual sounds from fan
-- Visible smoke escaping from cabinet
-- Burning smell in room
-
----
-
-## Emptying the Debris Tray and Cleaning Honeycomb
-
-**Time:** 3-5 minutes
-**Frequency:** After every use
+## Emptying the Debris Tray  
+**Time:** 1-2 minutes  
 
 ### Procedure:
 
@@ -131,130 +127,42 @@ Complete step-by-step procedures for all maintenance tasks.
    - Slide out tray from beneath honeycomb bed
    - Dispose of material scraps appropriately
    - Wipe tray if needed
+  
+2. **Replace debris tray.**
 
-2. **Clean honeycomb surface:**
-   - Use brush to sweep loose debris
-   - Remove any stuck material carefully
-   - Vacuum if available (shop vac recommended)
 
-3. **Check honeycomb condition:**
-   - Look for warping or damage
-   - Check for areas with heavy buildup
+## Check the Water Cooling System
 
-4. **Replace tray and confirm honeycomb is level.**
-
----
-
-## Verifying Water Cooling System
-
-**Time:** 1 minute
-**Frequency:** Before and after every use
+**Time:** 1 minute  
+**Frequency:** Weekly
 
 ### Procedure:
 
 1. **Check water level:**
-   - Look at reservoir/chiller
+   - Look at level gauge on the back of the reservoir/chiller
    - Water should be at or above minimum line
    - Add DISTILLED water only if low
 
 2. **Verify flow:**
-   - Look for flow indicator (spinning wheel or bubbles)
+   - Look for flow indicator (pending purchase)
    - Listen for pump operation
-   - Feel return line – should be slightly warm after use
-
+   - Feel return line – should be slightly warm after using the laser
+  
 3. **Check water quality:**
    - Water should be clear
    - No cloudiness, green tint, or particles
    - No algae growth
+   - If water appears contaminated, perform Full Coolant Replacement before using the laser
 
 ### Warning: Never operate laser if:
 - Water level is low
 - Pump is not running
 - Water appears contaminated
 
----
-
-# Weekly Tasks
-
----
-
-## Deep Clean Honeycomb Bed
-
-**Time:** 30-60 minutes (including soak time)
-**Frequency:** Weekly
-
-### Procedure:
-
-1. **Remove honeycomb from machine:**
-   - Lift out carefully (may be heavy)
-   - Note orientation for reinstallation
-
-2. **Initial cleaning:**
-   - Brush off loose debris
-   - Use shop vac to remove particles from cells
-
-3. **Soaking (if heavily soiled):**
-   - Fill utility sink or tub with warm water
-   - Add mild degreaser (e.g., Simple Green)
-   - Submerge honeycomb for 30 minutes
-   - Agitate periodically
-
-4. **Rinse and dry:**
-   - Rinse thoroughly with clean water
-   - Stand on edge to drain
-   - Air dry completely before reinstalling
-   - Can use compressed air to speed drying
-
-5. **Reinstall:**
-   - Ensure completely dry
-   - Place in machine in correct orientation
-   - Verify level and stable
-
----
-
-## Clean and Lubricate Guide Rails
-
-**Time:** 15 minutes
-**Frequency:** Every 2 weeks (per OMTech)
-
-### Materials:
-- **White lithium grease** (per OMTech recommendation)
-- Disposable cloths or paper towels
-- Lint-free cloths
-
-### Procedure:
-
-1. **Power off machine.**
-
-2. **Clean rails first:**
-   - Use disposable cloth to wipe X-axis and Y-axis guide rails
-   - Remove ALL old grease and debris
-   - Rails should be completely clean
-
-3. **Apply white lithium grease:**
-   - Apply a **small amount** to each guide rail
-   - Smooth it out along the rail
-   - ⚠️ **Do not over-lubricate!** A little goes a long way
-   - Over-lubrication traps dust and accelerates wear
-
-4. **Distribute grease:**
-   - Move gantry using arrow keys to work in the grease
-   - Cover full range of motion on X and Y axes
-
-5. **Lubricate bed screws:**
-   - Wipe the 4 bed screws clean
-   - Apply small amount of white lithium grease
-   - Move bed up and down to distribute
-
-6. **Remove excess:**
-   - Wipe away any excess grease
-   - You should have only a light film remaining
-
----
 
 ## Check Belt Tension
 
-**Time:** 5 minutes
+**Time:** 5 minutes  
 **Frequency:** Weekly
 
 ### Procedure:
@@ -278,11 +186,9 @@ Complete step-by-step procedures for all maintenance tasks.
    - Belt tensioning may require experienced member
    - Don't over-tighten (causes wear)
 
----
-
 ## Clean Air Assist Nozzle
 
-**Time:** 5 minutes
+**Time:** 5 minutes  
 **Frequency:** Weekly
 
 ### Procedure:
@@ -310,9 +216,49 @@ Complete step-by-step procedures for all maintenance tasks.
 
 ---
 
+## Clean and Lubricate Guide Rails
+
+**Time:** 15 minutes  
+**Frequency:** Monthly
+
+### Materials:
+- **White lithium grease** (per OMTech recommendation)
+- Disposable cloths or paper towels
+
+### Procedure:
+
+1. **Power off machine.**
+
+2. **Clean rails first:**
+   - With a clean hand, drag the gantry to one corner of the machine
+   - Use disposable cloth to wipe X-axis and Y-axis guide rails
+   - Remove ALL old grease and debris from top and bottom of rails
+   - Rails should be completely clean
+    > NOTE: Clean and lubricate only the exposed parts of the rails, then drag the gantry to the opposite corner of the machine to access the sections of the rails that were covered by the gantry. We want to clean & lubricate the entire range of motion
+
+3. **Apply white lithium grease:**
+   - Apply a **small amount** to each guide rail
+   - Spread it out along the top and bottom of the rail with your fingertip
+   - Avoid getting grease on the rubber belt
+   - ⚠️ **Do not over-lubricate!** A little goes a long way
+   - Over-lubrication traps dust and accelerates wear
+
+4. **Distribute grease:**
+   - With a clean hand, slowly pull the gantry back and forth along the applied grease
+   - Cover full range of motion on X and Y axes
+
+5. **Lubricate bed screws:**
+   - Wipe the 4 bed screws clean
+   - Apply small amount of white lithium grease
+   - Move bed up and down to distribute
+
+6. **Remove excess:**
+   - Wipe away any excess grease
+   - You should have only a light film remaining
+
 ## Check Mirror Alignment
 
-**Time:** 15-30 minutes
+**Time:** 15-30 minutes  
 **Frequency:** Monthly
 
 ### Materials:
@@ -353,53 +299,46 @@ Complete step-by-step procedures for all maintenance tasks.
 
 ---
 
-## Full Coolant Replacement
+## Deep Clean Honeycomb Bed
 
-**Time:** 30-45 minutes
-**Frequency:** Every 3 months
+**Time:** 30-60 minutes (including soak time)  
+**Frequency:** Quarterly (at minimum)
 
-### Materials:
-- 5+ gallons distilled water
-- Algaecide
-- Bucket for draining
-- Funnel (optional)
+[Reference video from OMTech](https://www.youtube.com/watch?v=mTOvc_VdliQ)
 
 ### Procedure:
 
-1. **Power off and unplug machine.**
+1. **Remove honeycomb from machine:**
+   - Lift out carefully (may be heavy)
+   - Note orientation for reinstallation
 
-2. **Drain system:**
-   - Open drain valve or disconnect lowest point
-   - Drain into bucket
-   - Tilt machine if needed to fully drain
-   - Drain any chiller reservoir
+2. **Initial cleaning:**
+   - Brush off loose debris
+   - Use shop vac to remove particles from cells
 
-3. **Flush system:**
-   - Refill with clean distilled water
-   - Run pump for 2 minutes
-   - Drain again
-   - Repeat if water was very dirty
+3. **Soaking (if heavily soiled):**
+   - Fill utility sink or tub with warm water
+   - Add mild degreaser (e.g., Simple Green)
+   - Submerge honeycomb for 30 minutes
+   - Use nylon pipe-cleaner brush to clean inside of each cell
+   - Agitate periodically
 
-4. **Refill with fresh water:**
-   - Use only distilled water
-   - Fill to proper level
-   - Add algaecide (1 capful per gallon)
+4. **Rinse and dry:**
+   - Rinse thoroughly with clean water
+   - Stand on edge to drain
+   - Air dry completely before reinstalling
+   - Can use compressed air to speed drying
 
-5. **Prime and test:**
-   - Power on cooling system
-   - Run for 5 minutes
-   - Check for leaks at all connections
-   - Top off water level as needed
+5. **Reinstall:**
+   - Ensure completely dry
+   - Place in machine in correct orientation
+   - Verify level and stable
 
-6. **Record in log:**
-   - Date of replacement
-   - Any issues noted
 
----
 
 ## Clean Exhaust Fan and Ducting
 
-**Time:** 30 minutes
+**Time:** 30 minutes  
 **Frequency:** Quarterly
 
 ### Procedure:
@@ -428,39 +367,57 @@ Complete step-by-step procedures for all maintenance tasks.
 
 ---
 
-## Check Laser Tube Contacts
+# Yearly Tasks
 
-**Time:** 10 minutes
-**Frequency:** Quarterly
+## Full Coolant Replacement
 
-### Safety: High voltage – power off and unplug!
+**Time:** 30-45 minutes  
+**Frequency:** Yearly
+
+Good guide and discussion that informed the below: https://support.thunderlaser.com/portal/en/kb/articles/laser-water-coolants-additives-25-4-2022
+
+
+### Materials:
+- 4 gallons distilled water
+- Tetra Algae Control aquarium algaecide
+- Dawn dish soap
+- Bucket for draining
+- Funnel (optional)
 
 ### Procedure:
 
-1. **Ensure machine is completely powered off and unplugged.**
+1. **Power off and unplug machine.**
 
-2. **Locate tube connections:**
-   - High voltage cathode at one end
-   - Low voltage anode at other end
-   - Note: CO2 tubes contain high voltage even when off – wait 5 minutes
+2. **Drain system:**
+   - Elevate chiller and set up bucker under drain port
+   - Drain into bucket
+   - Tilt machine if needed to fully drain
 
-3. **Visual inspection:**
-   - Check for corrosion or oxidation
-   - Look for burn marks or arcing damage
-   - Verify connections are secure
+3. **Flush system:**
+   - Refill with clean distilled water
+   - Run pump for 2 minutes
+   - Drain again
+   - Repeat if water was very dirty
 
-4. **Clean if needed:**
-   - Use electrical contact cleaner
-   - Ensure connections are tight
-   - Don't force connections
+4. **Refill with collant:**
+   - Add 1.5 gallons of distilled water
+   - Add 3 drops of Tetra Algae Control
+   - Add 3 drops of Dawn dish soap
 
-5. **Document condition** in maintenance log.
+5. **Prime and test:**
+   - Power on cooling system
+   - Run for 5 minutes
+   - Check for leaks at all connections
+   - Top off coolant level with distilled water
+
+6. **Record in log:**
+   - Date of replacement
+   - Any issues noted
+
 
 ---
 
 # Recording Completed Maintenance
-
----
 
 ## Slack Reporting Protocol
 
